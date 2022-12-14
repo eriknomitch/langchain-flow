@@ -1,6 +1,6 @@
 {
   "default": {
-    "extensions": [".ts", ".tsx", ".css"],
+    "extensions": [".ts", ".tsx", ".css", ".scss"],
     "exclusions": ["node_modules/"],
     "files": ["README.md"],
     "first_file": "README.md"

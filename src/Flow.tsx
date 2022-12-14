@@ -65,7 +65,7 @@ const BasicFlow = () => {
         onConnect={onConnect}
         nodeTypes={nodeTypes}
       >
-        <Background />
+        <Background color="#999" />
       </ReactFlow>
     </>
   );

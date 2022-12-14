@@ -153,9 +153,22 @@ body {
 }
 
 .App {
-    background-color: var(--bg-800);
+    background-color: var(--bg-1);
 }
 
 // .react-flow__background {
 //     background-color: var(--bg-800);
 // }
+.react-flow__node {
+    // Background gradient
+    background: linear-gradient(0deg, var(--bg-2) 0%, var(--bg-3) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-1);
+
+
+
+
+
+
+
+}
