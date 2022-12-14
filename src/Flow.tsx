@@ -11,7 +11,8 @@ import ReactFlow, {
 
 import CustomNode from "./CustomNode";
 
-import "reactflow/dist/style.css";
+import "./colors.scss";
+import "./global.scss";
 
 const initialNodes: Node[] = [
   {
