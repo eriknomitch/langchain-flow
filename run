@@ -1,0 +1,7 @@
+#!/usr/bin/env zsh
+
+test -f ~/.configs/zshrc-asdf && source ~/.configs/zshrc-asdf
+
+test -f .env && source .env
+
+pnpm start
